@@ -1,2 +1,2 @@
-# P2-Analyze-NYSE-DataAnalyze-NYSE-New-York-Stock-Exchange-Data
+# P2-Analyze-NYSE-Data-New-York-Stock-Exchange-
 Data Source: https://www.kaggle.com/dgawlik/nyse
